@@ -1,6 +1,9 @@
 # This repository contains 
 
-:one: A collection of seven poetry corpora in five languages (English, German, Spanish, Czech, Hungarian) enriched with annotations.
+:one: A collection of seven poetry corpora in five languages (English, German, Spanish, Czech and Hungarian) enriched with annotations.
+- Five corpora (English, German, classical Czech (hereafter CCV) and a combination of two Spanish corpora) are provided with full annotations.
+- Two corpora (Hungarian and modern Czech (hereafter C3P)) are provided with standalone annotations.
+- For four corpora (CCV, C3P, Hungarian and German) an extended version of annotations, which includes new labels of poetic forms obtained via a rule-based model with the weight configuration S5, is also provided.
 
 :two: Trained models for automatic classification of poetic forms:
 
@@ -8,15 +11,15 @@
 
 - Four Logistic Regression models trained on the English corpus
 
-- Four Support Vector Classifier models trained on the English corpus
+- Four Support Vector Classification models trained on the English corpus
 
-- Eight feature set weights configuration for rule-based classification
+- Eight feature set weight configuration for rule-based classification
 
 :three: Source codes used for experiments with automatic classification of poetic forms:
 
 - Data processing
 - Rule-based classification
-- Supervised machine learning (Logistic Regression and Support Vector Classifier)
+- Supervised machine learning (Logistic Regression and Support Vector Classification)
 - Unsupervised machine learning (*k*-means ans HDBSCAN)
 - Prompting Large Language Models (```gemini-2.5-pro``` and ```gpt-4o```)
 
@@ -221,23 +224,29 @@ Link: https://github.com/ELTE-DH/poetry-corpus
 ```
 
 ## :two: Models
-- cz* models are Logistics Regression models trained on originally labeled part of CCV
-- eng-lr* models are Logistics Regression models trained on the English corpus
-- eng-svc* models are Support Vector Classifier models trained on the English corpus
-- {cz, eng-lr, eng-svc}-f-d are models with downsampled *sonnets* (English) or *sonets* (Czech)
-- {cz, eng-lr, eng-svc}-f-s are models without downsampling
-- {cz, eng-lr, eng-svc}-d-d are delexicalized models with downsampled *sonnets* (English) or *sonets* (Czech)
-- {cz, eng-lr, eng-svc}-d-s are delexicalized models without downsampling
+
+- Supervised learning
+	- cz* models are Logistics Regression models trained on originally labeled part of CCV
+	- eng-lr* models are Logistics Regression models trained on the English corpus
+	- eng-svc* models are Support Vector Classification models trained on the English corpus
+	- {cz, eng-lr, eng-svc}-f-d are models with downsampled *sonnets* (English) or *sonets* (Czech)
+	- {cz, eng-lr, eng-svc}-f-s are models without downsampling
+	- {cz, eng-lr, eng-svc}-d-d are delexicalized models with downsampled *sonnets* (English) or *sonets* (Czech)
+	- {cz, eng-lr, eng-svc}-d-s are delexicalized models without downsampling
+- Rule-based
+	- Eight weight configurations for a feature set
+
 
 
 ## :three: Source code
-The source code in this corpus has been developed as a part of my Bachelor thesis.
-
-It includes scripts for:
 - Data processing: unificating and annotating corpora.
 - Rule-based classification approach: getting rules from statistics, finding optimal weights and predicting poetic forms.
-- Supervised learning approach: training LR and SVC models (same as :two:) and predicting poetic forms.
+- Supervised learning approach: training LR and SVC models (desribed in :two:) and predicting poetic forms.
 - Delexicalized transfer: predicting poetic forms using delexicalized models obtained with SL approach.
 - Unsupervised learning approach: *k*-means and HDBSCAN for clustering by poetic forms.
 - Prompting Large Language Models: predicting poetic forms using prompting LLMs.
 - Evaluation of performance: combining predictions from all approaches (except for clustering) and evaluating correctness.
+
+---
+The source code and all resulting materials have been developed as a part of my Bachelor thesis.
+

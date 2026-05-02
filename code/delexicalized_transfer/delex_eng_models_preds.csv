@@ -1,0 +1,181 @@
+Corpus,Poem ID,Ground Truth,Eng-LR-d-s,Eng-LR-d-d,Eng-SVC-d-s,Eng-SVC-d-d
+C3P,1,,unfixed,unfixed,couplet,couplet
+C3P,2,,unfixed,unfixed,couplet,couplet
+C3P,3,,free verse,free verse,free verse,free verse
+C3P,4,,couplet,couplet,sonnet,sonnet
+C3P,5,,common measure,couplet,common measure,couplet
+C3P,6,,free verse,free verse,couplet,free verse
+C3P,7,,common measure,common measure,common measure,common measure
+C3P,8,,sonnet,sonnet,sonnet,sonnet
+C3P,9,,unfixed,unfixed,free verse,couplet
+C3P,10,,couplet,couplet,couplet,couplet
+C3P,11,,common measure,common measure,common measure,couplet
+C3P,12,,free verse,free verse,free verse,free verse
+C3P,13,,unfixed,unfixed,free verse,free verse
+C3P,14,,unfixed,unfixed,couplet,couplet
+C3P,15,,free verse,unfixed,free verse,couplet
+C3P,16,,sonnet,sonnet,sonnet,sonnet
+C3P,17,,couplet,unfixed,couplet,couplet
+C3P,18,,unfixed,unfixed,unfixed,couplet
+C3P,19,,free verse,couplet,couplet,couplet
+C3P,20,,couplet,couplet,couplet,couplet
+C3P,21,,unfixed,unfixed,quatrain,unfixed
+C3P,22,,free verse,free verse,free verse,free verse
+C3P,23,,common measure,common measure,common measure,couplet
+C3P,24,,common measure,common measure,couplet,common measure
+C3P,25,,sonnet,sonnet,sonnet,sonnet
+C3P,26,,haiku,unfixed,unfixed,haiku
+C3P,27,,free verse,haiku,free verse,haiku
+C3P,28,,unfixed,unfixed,free verse,couplet
+C3P,29,,unfixed,unfixed,unfixed,couplet
+C3P,30,,couplet,couplet,couplet,couplet
+CCV,1,,couplet,couplet,couplet,couplet
+CCV,2,,common measure,common measure,common measure,couplet
+CCV,3,,couplet,couplet,couplet,couplet
+CCV,4,rondel,sonnet,unfixed,sonnet,couplet
+CCV,5,,common measure,common measure,common measure,common measure
+CCV,6,tercína,unfixed,unfixed,couplet,couplet
+CCV,7,,blank verse,blank verse,common measure,common measure
+CCV,8,,free verse,free verse,common measure,common measure
+CCV,9,,common measure,common measure,common measure,common measure
+CCV,10,,couplet,couplet,couplet,couplet
+CCV,11,,unfixed,free verse,free verse,free verse
+CCV,12,,unfixed,unfixed,unfixed,couplet
+CCV,13,,couplet,couplet,couplet,couplet
+CCV,14,sonet,sonnet,sonnet,sonnet,sonnet
+CCV,15,,couplet,couplet,couplet,common measure
+CCV,16,,couplet,couplet,couplet,couplet
+CCV,17,madrigal,free verse,free verse,free verse,free verse
+CCV,18,sonet,sonnet,sonnet,sonnet,sonnet
+CCV,19,,couplet,couplet,couplet,couplet
+CCV,20,,couplet,couplet,couplet,couplet
+CCV,21,,unfixed,unfixed,free verse,couplet
+CCV,22,,couplet,unfixed,couplet,couplet
+CCV,23,,couplet,couplet,couplet,couplet
+CCV,24,,common measure,common measure,common measure,common measure
+CCV,25,,couplet,unfixed,unfixed,couplet
+CCV,26,,free verse,free verse,free verse,free verse
+CCV,27,,common measure,common measure,free verse,unfixed
+CCV,28,sonet,sonnet,sonnet,sonnet,sonnet
+CCV,29,,couplet,couplet,couplet,couplet
+CCV,30,sonet,sonnet,sonnet,sonnet,sonnet
+English,1,blank verse,blank verse,blank verse,blank verse,blank verse
+English,2,free verse,free verse,free verse,free verse,free verse
+English,3,sonnet,sonnet,sonnet,sonnet,sonnet
+English,4,elegy,common measure,common measure,common measure,common measure
+English,5,sonnet,sonnet,sonnet,sonnet,sonnet
+English,6,common measure,common measure,common measure,common measure,common measure
+English,7,free verse,free verse,free verse,free verse,free verse
+English,8,common measure,common measure,common measure,common measure,common measure
+English,9,couplet,unfixed,unfixed,unfixed,unfixed
+English,10,couplet,unfixed,unfixed,unfixed,unfixed
+English,11,sonnet,sonnet,sonnet,sonnet,sonnet
+English,12,sonnet,sonnet,sonnet,sonnet,sonnet
+English,13,prose poem,unfixed,unfixed,unfixed,unfixed
+English,14,couplet,couplet,couplet,couplet,couplet
+English,15,sonnet,sonnet,sonnet,unfixed,unfixed
+English,16,sonnet,sonnet,sonnet,sonnet,sonnet
+English,17,couplet,couplet,couplet,couplet,couplet
+English,18,sonnet,sonnet,sonnet,sonnet,sonnet
+English,19,common measure,common measure,common measure,common measure,common measure
+English,20,sonnet,sonnet,sonnet,sonnet,sonnet
+English,21,prose poem,unfixed,unfixed,unfixed,unfixed
+English,22,common measure,common measure,common measure,common measure,common measure
+English,23,elegy,couplet,couplet,couplet,couplet
+English,24,ode,sonnet,sonnet,sonnet,sonnet
+English,25,common measure,common measure,common measure,common measure,common measure
+English,26,free verse,free verse,free verse,free verse,free verse
+English,27,dramatic monologue,couplet,couplet,couplet,couplet
+English,28,blank verse,blank verse,blank verse,blank verse,blank verse
+English,29,sonnet,sonnet,sonnet,sonnet,sonnet
+English,30,ode,unfixed,unfixed,unfixed,unfixed
+German,1,,couplet,couplet,couplet,couplet
+German,2,,unfixed,unfixed,unfixed,unfixed
+German,3,,couplet,couplet,couplet,couplet
+German,4,,unfixed,unfixed,unfixed,unfixed
+German,5,,unfixed,unfixed,unfixed,couplet
+German,6,,couplet,couplet,couplet,couplet
+German,7,,couplet,couplet,couplet,couplet
+German,8,,couplet,couplet,couplet,couplet
+German,9,,unfixed,unfixed,unfixed,unfixed
+German,10,,couplet,couplet,couplet,couplet
+German,11,,unfixed,unfixed,unfixed,unfixed
+German,12,,unfixed,unfixed,unfixed,unfixed
+German,13,,ballad,ballad,ballad,ballad
+German,14,,unfixed,unfixed,couplet,unfixed
+German,15,,unfixed,unfixed,unfixed,unfixed
+German,16,,unfixed,unfixed,unfixed,unfixed
+German,17,,couplet,couplet,couplet,couplet
+German,18,,couplet,couplet,couplet,couplet
+German,19,,unfixed,unfixed,unfixed,unfixed
+German,20,,sonnet,sonnet,sonnet,sonnet
+German,21,,unfixed,unfixed,couplet,couplet
+German,22,,couplet,couplet,couplet,couplet
+German,23,,haiku,haiku,haiku,unfixed
+German,24,,couplet,couplet,couplet,couplet
+German,25,,unfixed,unfixed,unfixed,unfixed
+German,26,,couplet,couplet,couplet,couplet
+German,27,,unfixed,unfixed,unfixed,unfixed
+German,28,,couplet,couplet,couplet,unfixed
+German,29,,ballad,ballad,ballad,ballad
+German,30,,unfixed,free verse,sonnet,unfixed
+Hungarian,1,,unfixed,couplet,unfixed,unfixed
+Hungarian,2,,sonnet,sonnet,sonnet,sonnet
+Hungarian,3,,couplet,couplet,unfixed,couplet
+Hungarian,4,,couplet,couplet,ballad,couplet
+Hungarian,5,,unfixed,unfixed,unfixed,couplet
+Hungarian,6,,quatrain,quatrain,couplet,couplet
+Hungarian,7,,couplet,couplet,couplet,couplet
+Hungarian,8,,couplet,common measure,couplet,common measure
+Hungarian,9,,unfixed,couplet,couplet,couplet
+Hungarian,10,,couplet,couplet,couplet,couplet
+Hungarian,11,,couplet,couplet,couplet,couplet
+Hungarian,12,,couplet,couplet,couplet,couplet
+Hungarian,13,,common measure,common measure,common measure,couplet
+Hungarian,14,,couplet,couplet,couplet,couplet
+Hungarian,15,,sonnet,sonnet,sonnet,sonnet
+Hungarian,16,,sonnet,sonnet,sonnet,sonnet
+Hungarian,17,,couplet,couplet,couplet,couplet
+Hungarian,18,,sonnet,sonnet,sonnet,sonnet
+Hungarian,19,,sonnet,sonnet,sonnet,sonnet
+Hungarian,20,,couplet,couplet,couplet,couplet
+Hungarian,21,,couplet,couplet,couplet,couplet
+Hungarian,22,,couplet,couplet,couplet,couplet
+Hungarian,23,,common measure,common measure,common measure,common measure
+Hungarian,24,,couplet,couplet,couplet,couplet
+Hungarian,25,,sonnet,sonnet,sonnet,sonnet
+Hungarian,26,,common measure,common measure,common measure,common measure
+Hungarian,27,,unfixed,unfixed,unfixed,unfixed
+Hungarian,28,,common measure,common measure,common measure,common measure
+Hungarian,29,,unfixed,unfixed,common measure,couplet
+Hungarian,30,,unfixed,unfixed,unfixed,unfixed
+Spanish,1,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,2,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,3,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,4,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,5,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,6,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,7,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,8,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,9,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,10,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,11,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,12,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,13,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,14,sonnet,unfixed,sonnet,sonnet,sonnet
+Spanish,15,sonnet,unfixed,sonnet,sonnet,sonnet
+Spanish,16,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,17,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,18,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,19,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,20,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,21,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,22,sonnet,unfixed,sonnet,sonnet,sonnet
+Spanish,23,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,24,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,25,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,26,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,27,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,28,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,29,sonnet,sonnet,sonnet,sonnet,sonnet
+Spanish,30,sonnet,sonnet,sonnet,sonnet,sonnet

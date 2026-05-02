@@ -1,0 +1,28 @@
+{
+    "pantoum": {
+        "stanza_scheme": {
+            "4 4 4 4 4 4 4 6": 1
+        },
+        "rhyme_scheme": {
+            "1 2 1 2 2 3 2 3 3 4 3 4 4 5 4 5 5 10 5 11 12 6 13 6 6 7 6 7 7 8 7 8 9 9": 1
+        },
+        "rhyme_scheme_per_stanza": {
+            "1212 2323 3434 4545 510511 126136 6767 787899": 1
+        },
+        "metrical_foot": {
+            "iambic": 1
+        },
+        "metrical_foot_count": {
+            "4": 1
+        },
+        "line_count": {
+            "34": 1
+        },
+        "total_syllables": {
+            "267": 1
+        },
+        "average_syllable_count": {
+            "7.852941176470588": 1
+        }
+    }
+}

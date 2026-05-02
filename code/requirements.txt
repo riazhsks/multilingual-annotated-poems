@@ -1,0 +1,10 @@
+g2p-en==2.1.0
+lxml==6.1.0
+nltk==3.9.4
+numpy==2.4.4
+pandas==3.0.2
+prosodic==3.2.1
+requests==2.33.1
+rhymetagger==1.0.0
+simplemma==1.1.2
+stop-words==2025.11.4

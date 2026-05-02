@@ -1,0 +1,32 @@
+{
+    "triolet": {
+        "stanza_scheme": {
+            "8": 2
+        },
+        "rhyme_scheme": {
+            "1 2 1 1 1 2 1 2": 2
+        },
+        "rhyme_scheme_per_stanza": {
+            "12111212": 2
+        },
+        "metrical_foot": {
+            "iambic": 1,
+            "dactylic": 1
+        },
+        "metrical_foot_count": {
+            "4": 1,
+            "3": 1
+        },
+        "line_count": {
+            "8": 2
+        },
+        "total_syllables": {
+            "69": 1,
+            "68": 1
+        },
+        "average_syllable_count": {
+            "8.625": 1,
+            "8.5": 1
+        }
+    }
+}

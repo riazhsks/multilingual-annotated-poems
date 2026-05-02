@@ -1,0 +1,28 @@
+{
+    "huitain": {
+        "stanza_scheme": {
+            "8 8 8": 1
+        },
+        "rhyme_scheme": {
+            "1 2 1 2 2 3 2 3 4 5 4 5 5 6 5 6 7 8 7 8 8 9 8 9": 1
+        },
+        "rhyme_scheme_per_stanza": {
+            "12122323 45455656 78788989": 1
+        },
+        "metrical_foot": {
+            "iambic": 1
+        },
+        "metrical_foot_count": {
+            "4": 1
+        },
+        "line_count": {
+            "24": 1
+        },
+        "total_syllables": {
+            "192": 1
+        },
+        "average_syllable_count": {
+            "8.0": 1
+        }
+    }
+}

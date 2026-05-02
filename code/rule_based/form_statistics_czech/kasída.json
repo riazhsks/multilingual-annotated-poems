@@ -1,0 +1,35 @@
+{
+    "kasída": {
+        "stanza_scheme": {
+            "2 2 2": 4
+        },
+        "rhyme_scheme": {
+            "1 1 1 1 1 1": 4
+        },
+        "rhyme_scheme_per_stanza": {
+            "11 11 11": 4
+        },
+        "metrical_foot": {
+            "dactylic": 2,
+            "trochaic": 2
+        },
+        "metrical_foot_count": {
+            "4": 2,
+            "mixed": 1,
+            "5": 1
+        },
+        "line_count": {
+            "6": 4
+        },
+        "total_syllables": {
+            "60": 2,
+            "54": 1,
+            "58": 1
+        },
+        "average_syllable_count": {
+            "10.0": 2,
+            "9.0": 1,
+            "9.666666666666666": 1
+        }
+    }
+}

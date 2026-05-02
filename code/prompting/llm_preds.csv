@@ -1,0 +1,181 @@
+Poem ID,Corpus,Ground Truth,Gemini P1,Gemini P2,GPT P1,GPT P2
+1,English,blank verse,blank verse,blank verse,unfixed,unfixed
+2,English,free verse,quatrain,quatrain,couplet,quatrain
+3,English,sonnet,sonnet,unfixed,unfixed,sonnet
+4,English,elegy,long measure,unfixed,unfixed,unfixed
+5,English,sonnet,sonnet,sonnet,sonnet,sonnet
+6,English,common measure,common measure,common measure,unfixed,unfixed
+7,English,free verse,unfixed,unfixed,unfixed,unfixed
+8,English,common measure,unfixed,unfixed,unfixed,unfixed
+9,English,couplet,couplet,couplet,heroic couplet,unfixed
+10,English,couplet,unfixed,knittelvers,unfixed,unfixed
+11,English,sonnet,unfixed,sonnet,sonnet,unfixed
+12,English,sonnet,sonnet,sonnet,sonnet,sonnet
+13,English,prose poem,unfixed,unfixed,unfixed,unfixed
+14,English,couplet,rondeau,unfixed,unfixed,unfixed
+15,English,sonnet,blank verse,blank verse,unfixed,blank verse
+16,English,sonnet,sonnet,sonnet,unfixed,unfixed
+17,English,couplet,couplet,couplet,unfixed,unfixed
+18,English,sonnet,sonnet,sonnet,sonnet,sonnet
+19,English,common measure,common measure,common measure,unfixed,unfixed
+20,English,sonnet,sonnet,sonnet,sonnet,sonnet
+21,English,prose poem,unfixed,unfixed,unfixed,unfixed
+22,English,common measure,common measure,common measure,unfixed,unfixed
+23,English,elegy,couplet,couplet,unfixed,unfixed
+24,English,ode,sonnet,sonnet,sonnet,sonnet
+25,English,common measure,unfixed,common measure,unfixed,unfixed
+26,English,free verse,unfixed,unfixed,unfixed,unfixed
+27,English,dramatic monologue,couplet,couplet,unfixed,unfixed
+28,English,blank verse,blank verse,blank verse,unfixed,unfixed
+29,English,sonnet,sonnet,sonnet,sonnet,sonnet
+30,English,ode,unfixed,unfixed,unfixed,unfixed
+1,Spanish,sonnet,sonnet,sonnet,unfixed,sonnet
+2,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+3,Spanish,sonnet,sonnet,unfixed,unfixed,unfixed
+4,Spanish,sonnet,sonnet,sonnet,unfixed,unfixed
+5,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+6,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+7,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+8,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+9,Spanish,sonnet,unfixed,unfixed,unfixed,unfixed
+10,Spanish,sonnet,sonnet,sonnet,unfixed,sonnet
+11,Spanish,sonnet,unfixed,blank verse,unfixed,unfixed
+12,Spanish,sonnet,sonnet,sonnet,unfixed,sonnet
+13,Spanish,sonnet,sonnet,sonnet,unfixed,unfixed
+14,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+15,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+16,Spanish,sonnet,sonnet,sonnet,unfixed,sonnet
+17,Spanish,sonnet,unfixed,unfixed,unfixed,unfixed
+18,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+19,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+20,Spanish,sonnet,unfixed,unfixed,unfixed,unfixed
+21,Spanish,sonnet,unfixed,sonnet,unfixed,sonnet
+22,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+23,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+24,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+25,Spanish,sonnet,unfixed,unfixed,sonnet,sonnet
+26,Spanish,sonnet,sonnet,sonnet,sonnet,unfixed
+27,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+28,Spanish,sonnet,sonnet,sonnet,unfixed,sonnet
+29,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+30,Spanish,sonnet,sonnet,sonnet,sonnet,sonnet
+1,C3P,,unfixed,stance,unfixed,unfixed
+2,C3P,,unfixed,unfixed,unfixed,unfixed
+3,C3P,,unfixed,unfixed,unfixed,unfixed
+4,C3P,,sonnet,sonnet,unfixed,unfixed
+5,C3P,,unfixed,unfixed,unfixed,unfixed
+6,C3P,,unfixed,unfixed,unfixed,unfixed
+7,C3P,,unfixed,unfixed,unfixed,unfixed
+8,C3P,,unfixed,knittelvers,unfixed,unfixed
+9,C3P,,unfixed,unfixed,unfixed,unfixed
+10,C3P,,unfixed,stance,unfixed,unfixed
+11,C3P,,quatrain,unfixed,unfixed,quatrain
+12,C3P,,unfixed,unfixed,unfixed,unfixed
+13,C3P,,unfixed,quatrain,unfixed,unfixed
+14,C3P,,unfixed,unfixed,unfixed,unfixed
+15,C3P,,unfixed,unfixed,unfixed,unfixed
+16,C3P,,unfixed,unfixed,unfixed,unfixed
+17,C3P,,unfixed,unfixed,unfixed,unfixed
+18,C3P,,unfixed,stance,unfixed,unfixed
+19,C3P,,unfixed,unfixed,unfixed,unfixed
+20,C3P,,unfixed,unfixed,unfixed,unfixed
+21,C3P,,stance,unfixed,unfixed,unfixed
+22,C3P,,unfixed,unfixed,unfixed,unfixed
+23,C3P,,unfixed,unfixed,unfixed,unfixed
+24,C3P,,quatrain,unfixed,unfixed,unfixed
+25,C3P,,sonnet,sonnet,sonnet,sonnet
+26,C3P,,unfixed,unfixed,unfixed,unfixed
+27,C3P,,unfixed,unfixed,unfixed,unfixed
+28,C3P,,unfixed,unfixed,unfixed,unfixed
+29,C3P,,unfixed,unfixed,unfixed,unfixed
+30,C3P,,quatrain,stance,unfixed,unfixed
+1,CCV,,quatrain,quatrain,unfixed,quatrain
+2,CCV,,quatrain,liedstrophe,unfixed,unfixed
+3,CCV,,quatrain,hrdinský kuplet,unfixed,unfixed
+4,CCV,rondel,rondel,rondel,unfixed,rondel
+5,CCV,,ballad,common measure,unfixed,unfixed
+6,CCV,tercína,tercina,tercína,unfixed,unfixed
+7,CCV,,unfixed,unfixed,unfixed,unfixed
+8,CCV,,cinquain,liedstrophe,unfixed,unfixed
+9,CCV,,unfixed,quatrain,unfixed,unfixed
+10,CCV,,stance,unfixed,unfixed,unfixed
+11,CCV,,unfixed,unfixed,unfixed,unfixed
+12,CCV,,sapphic stanza,unfixed,unfixed,unfixed
+13,CCV,,quatrain,unfixed,unfixed,unfixed
+14,CCV,sonet,sonnet,sonnet,sonnet,unfixed
+15,CCV,,unfixed,stance,unfixed,unfixed
+16,CCV,,unfixed,unfixed,unfixed,unfixed
+17,CCV,madrigal,rondel,unfixed,unfixed,unfixed
+18,CCV,sonet,sonnet,sonnet,sonnet,unfixed
+19,CCV,,lyrical sestina,unfixed,unfixed,unfixed
+20,CCV,,stance,unfixed,unfixed,unfixed
+21,CCV,,unfixed,unfixed,unfixed,unfixed
+22,CCV,,unfixed,unfixed,unfixed,unfixed
+23,CCV,,octet,unfixed,quatrain,unfixed
+24,CCV,,ballad stanza,common measure,unfixed,unfixed
+25,CCV,,couplet,knittelvers,unfixed,unfixed
+26,CCV,,triplet,unfixed,unfixed,unfixed
+27,CCV,,sestet,liedstrophe,unfixed,unfixed
+28,CCV,sonet,sonnet,sonnet,sonnet,sonnet
+29,CCV,,unfixed,limerick,unfixed,unfixed
+30,CCV,sonet,sonnet,sonnet,unfixed,unfixed
+1,German,,couplet,couplet,couplet,couplet
+2,German,,quatrain,liedstrophe,unfixed,quatrain
+3,German,,quatrain,liedstrophe,unfixed,unfixed
+4,German,,unfixed,liedstrophe,unfixed,unfixed
+5,German,,quatrain,quatrain,unfixed,unfixed
+6,German,,heroic quatrain,liedstrophe,unfixed,unfixed
+7,German,,sestet,unfixed,unfixed,unfixed
+8,German,,couplet,couplet,couplet,knittelvers
+9,German,,sestet,liedstrophe,unfixed,liedstrophe
+10,German,,quatrain,liedstrophe,unfixed,unfixed
+11,German,,quatrain,liedstrophe,unfixed,liedstrophe
+12,German,,quatrain,knittelvers,unfixed,unfixed
+13,German,,quatrain,liedstrophe,unfixed,unfixed
+14,German,,unfixed,liedstrophe,unfixed,unfixed
+15,German,,elegiac distich,unfixed,unfixed,unfixed
+16,German,,sicilian octave,liedstrophe,unfixed,unfixed
+17,German,,couplet,couplet,couplet,couplet
+18,German,,quatrain,quatrain,quatrain,unfixed
+19,German,,strophic ode,liedstrophe,unfixed,unfixed
+20,German,,sonnet,sonnet,sonnet,sonett
+21,German,,eight-line stanza,liedstrophe,unfixed,unfixed
+22,German,,quintain,liedstrophe,unfixed,unfixed
+23,German,,unfixed,unfixed,unfixed,unfixed
+24,German,,couplet,couplet,couplet,knittelvers
+25,German,,quatrain,liedstrophe,unfixed,unfixed
+26,German,,alexandrine couplets,knittelvers,unfixed,knittelvers
+27,German,,burns stanza,liedstrophe,unfixed,unfixed
+28,German,,couplet,unfixed,unfixed,unfixed
+29,German,,quatrain,liedstrophe,unfixed,liedstrophe
+30,German,,unfixed,unfixed,unfixed,unfixed
+1,Hungarian,,elegiac couplet,felező tizenkettes,unfixed,unfixed
+2,Hungarian,,sonnet,sonnet,unfixed,unfixed
+3,Hungarian,,unfixed,bokorrím,unfixed,unfixed
+4,Hungarian,,quintain,dal,unfixed,unfixed
+5,Hungarian,,unfixed,unfixed,unfixed,unfixed
+6,Hungarian,,quatrain,dal,unfixed,unfixed
+7,Hungarian,,quatrain,quatrain,quatrain,quatrain
+8,Hungarian,,quatrain,dal,unfixed,unfixed
+9,Hungarian,,elegiac distich,unfixed,unfixed,unfixed
+10,Hungarian,,elegiac couplet,quatrain,unfixed,unfixed
+11,Hungarian,,quatrain,dal,unfixed,unfixed
+12,Hungarian,,unfixed,dal,unfixed,dal
+13,Hungarian,,quatrain,dal,unfixed,unfixed
+14,Hungarian,,quatrain,dal,unfixed,unfixed
+15,Hungarian,,sonnet,sonnet,unfixed,unfixed
+16,Hungarian,,sonnet,sonnet,unfixed,unfixed
+17,Hungarian,,quatrain,bokorrím,unfixed,unfixed
+18,Hungarian,,sonnet,sonnet,unfixed,unfixed
+19,Hungarian,,sonnet,sonnet,unfixed,sonnet
+20,Hungarian,,elegiac couplet,unfixed,unfixed,unfixed
+21,Hungarian,,unfixed,unfixed,unfixed,unfixed
+22,Hungarian,,unfixed,bokorrím,unfixed,unfixed
+23,Hungarian,,sapphic strophe,dal,unfixed,unfixed
+24,Hungarian,,alcaic stanza,unfixed,unfixed,unfixed
+25,Hungarian,,sonnet,sonnet,unfixed,sonnet
+26,Hungarian,,quatrain,dal,unfixed,unfixed
+27,Hungarian,,unfixed,unfixed,unfixed,unfixed
+28,Hungarian,,folk song stanza,dal,unfixed,unfixed
+29,Hungarian,,himfy stanza,dal,unfixed,unfixed
+30,Hungarian,,unfixed,unfixed,unfixed,unfixed

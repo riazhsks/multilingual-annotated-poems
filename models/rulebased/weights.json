@@ -1,0 +1,82 @@
+{
+    "S1": {
+        "line_count": 1,
+        "stanza_scheme": 2,
+        "rhyme_scheme": 1,
+        "rhyme_scheme_per_stanza": 30,
+        "metrical_foot": 2,
+        "metrical_foot_count": 1,
+        "total_syllables": 30,
+        "average_syllable_count": 1
+    },
+    "S2": {
+        "line_count": 5,
+        "stanza_scheme": 10,
+        "rhyme_scheme": 30,
+        "rhyme_scheme_per_stanza": 20,
+        "metrical_foot": 2,
+        "metrical_foot_count": 2,
+        "total_syllables": 40,
+        "average_syllable_count": 10
+    },
+    "S3": {
+        "line_count": 1,
+        "stanza_scheme": 2,
+        "rhyme_scheme": 40,
+        "rhyme_scheme_per_stanza": 15,
+        "metrical_foot": 5,
+        "metrical_foot_count": 5,
+        "total_syllables": 35,
+        "average_syllable_count": 10
+    },
+    "S4": {
+        "line_count": 1,
+        "stanza_scheme": 10,
+        "rhyme_scheme": 2,
+        "rhyme_scheme_per_stanza": 35,
+        "metrical_foot": 2,
+        "metrical_foot_count": 1,
+        "total_syllables": 35,
+        "average_syllable_count": 5
+    },
+    "S5": {
+        "line_count": 5,
+        "stanza_scheme": 30,
+        "rhyme_scheme": 2,
+        "rhyme_scheme_per_stanza": 35,
+        "metrical_foot": 10,
+        "metrical_foot_count": 1,
+        "total_syllables": 40,
+        "average_syllable_count": 15
+    },
+    "S6": {
+        "line_count": 2,
+        "stanza_scheme": 20,
+        "rhyme_scheme": 30,
+        "rhyme_scheme_per_stanza": 1,
+        "metrical_foot": 10,
+        "metrical_foot_count": 2,
+        "total_syllables": 20,
+        "average_syllable_count": 20
+    },
+    "S7": {
+        "line_count": 2,
+        "stanza_scheme": 15,
+        "rhyme_scheme": 5,
+        "rhyme_scheme_per_stanza": 35,
+        "metrical_foot": 1,
+        "metrical_foot_count": 5,
+        "total_syllables": 25,
+        "average_syllable_count": 1
+    },
+    "S8": {
+        "line_count": 15,
+        "stanza_scheme": 20,
+        "rhyme_scheme": 35,
+        "rhyme_scheme_per_stanza": 40,
+        "metrical_foot": 5,
+        "metrical_foot_count": 5,
+        "total_syllables": 40,
+        "average_syllable_count": 20
+    }
+}

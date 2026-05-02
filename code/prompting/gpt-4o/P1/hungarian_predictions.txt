@@ -1,0 +1,334 @@
+{
+    "stanza_scheme": "6",
+    "rhyme_scheme": "A B C D E F",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 6,
+    "total_syllables": 63,
+    "average_syllable_count": 10.5,
+    "proof": "The poem consists of 6 lines with an unconventional rhyme scheme (A B C D E F), and varying metrical patterns, making it unlikely to fit within any traditional fixed poetic form.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B B A C D C D E F F E G H",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 14,
+    "total_syllables": 116,
+    "average_syllable_count": 8.3,
+    "proof": "The poem has 14 lines and a quatrain tercet structure. However, it lacks a consistent rhyme scheme typical of traditional sonnets (e.g., ABBA, ABAB) and exhibits a mixed metrical pattern, which does not conform to the iambic pentameter often found in sonnets.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+  "stanza_scheme": "4 4 4 4",
+  "rhyme_scheme": "A A A A B B B B C C C C D D D D",
+  "metrical_foot": "unknown",
+  "metrical_foot_count": "mixed",
+  "line_count": 16,
+  "total_syllables": "unknown",
+  "average_syllable_count": "unknown",
+  "proof": "The poem consists of 16 lines divided into quatrains with a consistent A A A A B B B B C C C C D D D D rhyme scheme. However, the meter is unclear, rendering it difficult to match to a specific form. The regular quatrains suggest some structural intention, but without matching meter or other distinctive features, it remains unspecified.",
+  "form": "unfixed",
+  "confidence": 85
+}{
+    "stanza_scheme": "5 5 5 5 5 5 4",
+    "rhyme_scheme": "A A B B A C C D D C E E F F E G G H H G I I J J I K K L L K",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 34,
+    "total_syllables": null,  "average_syllable_count": null,
+    "proof": "The poem consists of lines with irregular stanza and rhyme scheme patterns and lacks a consistent metrical pattern, which deviates from typical fixed forms such as sonnet, ghazal, or villanelle. The polymetric and mixed nature of the syllable pattern also hinders it from fitting into any traditional fixed form.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "5 11 6 6",
+    "rhyme_scheme": "A A B C D B D E F F G G H I J J J H",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 28,
+    "total_syllables": 340,
+    "average_syllable_count": 12.1,
+    "proof": "The poem contains 28 lines with an inconsistent stanza and rhyme scheme, and lacks a consistent meter, disqualifying it from classical fixed forms like sonnets or villanelles.",
+    "form": "unfixed",
+    "confidence": 85
+}
+{
+    "stanza_scheme": "4 4 4 4 4 4 4 3",
+    "rhyme_scheme": "A A B B C C D D E E F G G F",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 29,
+    "total_syllables": 250, 
+    "average_syllable_count": 8.6,
+    "proof": "The poem has a varied stanza structure with quatrains and a concluding tercet. Its rhyme scheme is consistent across several quatrains but does not match any known fixed forms. Additionally, the meter is inconsistent, ruling out standardized forms such as sonnets or villanelles.",
+    "form": "unfixed",
+    "confidence": 85
+}
+{
+  "stanza_scheme": "4",
+  "rhyme_scheme": "A B A B",
+  "metrical_foot": "anapestic",
+  "metrical_foot_count": 4,
+  "line_count": 4,
+  "total_syllables": 44,
+  "average_syllable_count": 11.0,
+  "proof": "The poem consists of a single quatrain with an A B A B rhyme scheme and a consistent anapestic meter, evidenced by the dominant rhythmic flow of the lines. The structure aligns with a quatrain, a common fixed form representing four-line stanzas.",
+  "form": "quatrain",
+  "confidence": 95
+}
+{
+    "stanza_scheme": "4 4 4",
+    "rhyme_scheme": "A B A A B C B C D C B C",
+    "metrical_foot": "unknown",
+    "metrical_foot_count": "unknown",
+    "line_count": 12,
+    "total_syllables": "unknown",
+    "average_syllable_count": "unknown",
+    "proof": "The poem is composed of 12 lines divided into three quatrains with a rhyme pattern that does not correspond clearly to any known fixed form. There is repetition of concepts but not structured refrains or a consistent metrical pattern to suggest a specific traditional form like villanelle or rondeau.",
+    "form": "unfixed",
+    "confidence": 80
+}{
+  "stanza_scheme": "2 2 2 2 2 2",
+  "rhyme_scheme": "A B A B C D C D E F E F G H",
+  "metrical_foot": "polymetric",
+  "metrical_foot_count": "mixed",
+  "line_count": 12,
+  "total_syllables": null,
+  "average_syllable_count": null,
+  "proof": "The poem contains 12 lines arranged in couplets, but it does not adhere to a consistent rhyme scheme or meter typical of well-known fixed forms such as a sonnet, ghazal, or villanelle. The rhyme scheme is irregular, and without a regular meter or significant refrains, it lacks alignment with fixed forms.",
+  "form": "unfixed",
+  "confidence": 85
+}{
+    "stanza_scheme": "4",
+    "rhyme_scheme": "A B C B",
+    "metrical_foot": "unknown",
+    "metrical_foot_count": "mixed",
+    "line_count": 4,
+    "total_syllables": "unknown",
+    "average_syllable_count": "unknown",
+    "proof": "The poem consists of four lines forming a single stanza with a rhyme scheme of A B C B. There is no evident repetition of lines that would suggest a villanelle or ghazal. The rhyme scheme and structure align with a quatrain, a stanza commonly found in various forms but not bound to a specific metrical pattern.",
+    "form": "unfixed",
+    "confidence": 75
+}{
+    "stanza_scheme": "4 4 4 4",
+    "rhyme_scheme": "A B A B C D C D E F E F G H G H",
+    "metrical_foot": "unknown",
+    "metrical_foot_count": "unknown",
+    "line_count": 16,
+    "total_syllables": "unknown",
+    "average_syllable_count": "unknown",
+    "proof": "The poem consists of 16 lines arranged in four quatrains. The rhyme scheme is ABAB for each quatrain, but the poem does not fit the typical characteristics of fixed forms like sonnets or villanelles, which have specific line counts and metrical requirements.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+  "stanza_scheme": "4 4 4 4",
+  "rhyme_scheme": "A B C A D E D F G H G I J K L J",
+  "metrical_foot": "polymetric",
+  "metrical_foot_count": "mixed",
+  "line_count": 16,
+  "total_syllables": 116,
+  "average_syllable_count": 7.25,
+  "proof": "The poem consists of 16 lines divided into quatrains with an irregular rhyme scheme and no consistent meter. These features do not align with traditional fixed forms such as sonnets, villanelles, or other notable forms, indicating an 'unfixed' form.",
+  "form": "unfixed",
+  "confidence": 85
+}{
+    "stanza_scheme": "4 4 4 4",
+    "rhyme_scheme": "A B C B D E F E G H I H J K L K",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 16,
+    "total_syllables": 130,
+    "average_syllable_count": 8.125,
+    "proof": "The poem consists of 16 lines divided into four quatrains with a non-consistent rhyme scheme and mixed metrical patterns. This structure does not match any traditional fixed poetic form like a sonnet, ghazal, or villanelle due to its polymetric nature and irregular rhyme.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "8 8",
+    "rhyme_scheme": "X X X X X X X X X X X X X X X X",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 16,
+    "total_syllables": 126,
+    "average_syllable_count": 7.875,
+    "proof": "The poem consists of 16 lines divided into two 8-line stanzas. There is no consistent rhyme scheme or meter present, as the rhyme and rhythm appear irregular. Due to the lack of defining structural features aligning with recognized fixed forms, the poem is best classified as unfixed.",
+    "form": "unfixed",
+    "confidence": 90
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B B A C D D C E F G E F G",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 14,
+    "total_syllables": 116,
+    "average_syllable_count": 8.3,
+    "proof": "The poem consists of 14 lines, typical of a sonnet structure. However, the rhyme scheme A B B A C D D C E F G E F G deviates from traditional sonnet patterns (such as the Petrarchan or Shakespearean sonnets) and lacks a consistent metrical pattern, making it ineligible for classification as a sonnet or other fixed forms.",
+    "form": "unfixed",
+    "confidence": 80
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B B A C D D C E E F F G G",
+    "metrical_foot": "mixed",
+    "metrical_foot_count": "mixed",
+    "line_count": 14,
+    "total_syllables": 143,
+    "average_syllable_count": 10.21,
+    "proof": "The poem consists of 14 lines with a stanza scheme of 4 4 3 3. Although it has some traits akin to a sonnet in terms of line count, the rhyme scheme A B B A C D D C E E F F G G does not conform to any standard sonnet structure like the Shakespearean or Petrarchan sonnet. Moreover, the meter is mixed rather than consistent iambic, which further indicates the poem does not fit within a standard fixed form such as a sonnet.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4",
+    "rhyme_scheme": "A A A A",
+    "metrical_foot": "unknown",
+    "metrical_foot_count": "mixed",
+    "line_count": 4,
+    "total_syllables": 31,
+    "average_syllable_count": 7.75,
+    "proof": "The poem consists of 4 lines with a consistent rhyme (AAAA) but does not match the structure or metrical requirements of recognized fixed forms such as quatrain, as it lacks a clear metrical pattern and the rhyme scheme, while consistent, is not indicative of any specific form.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B A B C D C D E F F G G E",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 14,
+    "total_syllables": 121,
+    "average_syllable_count": 8.6,
+    "proof": "The poem consists of 14 lines, arranged in four stanzas of quatrains followed by a tercet and another tercet. The rhyme scheme follows an alternating pattern in the quatrains, and the tercets have a more irregular pattern. The metrical pattern is mixed and does not follow a regular iambic pentameter or any other consistent metric commonly associated with sonnets, ruling it out as a fixed form."
+    ,"form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B A B C D C D E F F F E F",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 14,
+    "total_syllables": 120,
+    "average_syllable_count": 8.57,
+    "proof": "The poem consists of 14 lines with a stanza scheme of 4 4 3 3, which is typical for a sonnet. However, the rhyme scheme A B A B C D C D E F F F E F does not match any traditional sonnet form (e.g., Shakespearean or Petrarchan). Additionally, the meter is mixed rather than consistently iambic pentameter. These factors indicate that the poem doesn't fit any recognized fixed form.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "unstructured",
+    "rhyme_scheme": "A B C B C D E F G F H I J K",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 10,
+    "total_syllables": 88,
+    "average_syllable_count": 8.8,
+    "proof": "The poem consists of 10 lines with an inconsistent rhyme scheme and mixed metrical pattern. It does not fit the requirements of a fixed poetic form such as a sonnet, haiku, or ghazal. The lack of consistent structural or metrical features indicates an unfixed form.",
+    "form": "unfixed",
+    "confidence": 80
+}{
+    "stanza_scheme": "6 5 6 5 5 5 2",
+    "rhyme_scheme": "A B C D A B C A E A F G H I J A F G K L D M J B",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 34,
+    "total_syllables": 248,
+    "average_syllable_count": 7.3,
+    "proof": "The poem consists of 34 lines divided into varied stanzas. Its rhyme scheme is inconsistent and lacks a repeated pattern typical of fixed forms. The meter is also mixed, ruling out forms like sonnets or villanelles. Therefore, the poem does not adhere to any known fixed form, suggesting it is unfixed.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "8 1",
+    "rhyme_scheme": "A B C B D E D E E E",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 9,
+    "total_syllables": 96,
+    "average_syllable_count": 10.7,
+    "proof": "The poem consists of 9 lines and utilizes an irregular rhyme scheme A B C B D E D E E with no consistent stanza structure. Due to the mixed metrical pattern and absence of a clear fixed form structure, it does not adhere to the characteristics of any recognized fixed form, such as a sonnet or a villanelle.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4 4 3 3",
+    "rhyme_scheme": "A B B C D E E F G H H I",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 12,
+    "total_syllables": 83,
+    "average_syllable_count": 6.9,
+    "proof": "The poem has 12 lines with a stanza scheme of 4 4 3 3 and an irregular rhyme scheme. The varied line length and syllable count indicate mixed meter. These features do not align with any traditional fixed poetic form such as a sonnet, ghazal, or haiku.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "4 4 4 4 4 4",
+    "rhyme_scheme": "A B C D E F G H I J K L M N",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 24,
+    "total_syllables": 282,
+    "average_syllable_count": 11.75,
+    "proof": "The poem is arranged in six stanzas with four lines each, totaling 24 lines. The rhyme scheme is largely irregular, and there is no consistent metrical pattern, indicating the use of varied metrical feet characteristic of polymetric structure. It does not fit typical fixed forms such as a sonnet, villanelle, or sestina, which have specific stanzaic and rhyme requirements.",
+    "form": "unfixed",
+    "confidence": 90
+}{
+  "stanza_scheme": "4 4 3 3",
+  "rhyme_scheme": "A B A B C D C D E F F E F E",
+  "metrical_foot": "polymetric",
+  "metrical_foot_count": "mixed",
+  "line_count": 14,
+  "total_syllables": 144,
+  "average_syllable_count": 10.3,
+  "proof": "The poem contains 14 lines, resembling a sonnet structure, and follows a quatrain and tercet pattern. However, the rhyme scheme differs from traditional sonnets. The metrics are varied, and there is no consistent meter or traditional sonnet volta, which leads to it being categorized as 'unfixed'.",
+  "form": "unfixed",
+  "confidence": 85
+}{
+    "stanza_scheme": "4 4 4 4",
+    "rhyme_scheme": "A B C B D E F E G H I J K L M N",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 24,
+    "total_syllables": 262,
+    "average_syllable_count": 10.9,
+    "proof": "The poem consists of 24 lines structured into four stanzas of four lines each. The rhyme scheme is irregular across the stanzas, showing A B C B and other non-repeating patterns. There is no consistent metrical pattern across the poem, indicating a lack of adherence to traditional forms defined by specific meter. These characteristics suggest that the poem does not fit any traditional fixed poetic form such as a sonnet, villanelle, or ghazal, which would require specific rhyme and metrical patterns.",
+    "form": "unfixed",
+    "confidence": 85
+}
+{
+    "stanza_scheme": "4 4",
+    "rhyme_scheme": "A B C D A B C D",
+    "metrical_foot": "unknown",
+    "metrical_foot_count": "unknown",
+    "line_count": 8,
+    "total_syllables": null,
+    "average_syllable_count": null,
+    "proof": "The poem consists of two quatrains with an A B C D rhyme scheme repeated in both stanzas. The lack of known meter and irregular rhyme suggests it does not adhere to a specific fixed form.",
+    "form": "unfixed",
+    "confidence": 75
+}{
+    "stanza_scheme": "4 4 4 4",
+    "rhyme_scheme": "A B A B C D C D E F E F G H G H",
+    "metrical_foot": "trochaic",
+    "metrical_foot_count": "mixed",
+    "line_count": 16,
+    "total_syllables": 97,
+    "average_syllable_count": 6.06,
+    "proof": "The poem consists of four quatrains, each with an ABAB rhyme scheme. The syllable count per line varies, and the overall structure doesn't align completely with any traditional fixed poetic form, despite the presence of regular rhyme within each quatrain. The trochaic meter and lack of consistent syllable count make it unfixed.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "7 7 7 7 7 7 7",
+    "rhyme_scheme": "A B C C B D E F G H I I J K L M N O O P Q R S S",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 42,
+    "total_syllables": 360,
+    "average_syllable_count": 8.57,
+    "proof": "The poem consists of 42 lines, organized into 7 stanzas of 6 lines each. The rhyme scheme is irregular and polymetric, with varied rhyme patterns across different stanzas. There is no consistent metrical pattern, indicating the poem does not adhere to any traditional fixed form.",
+    "form": "unfixed",
+    "confidence": 85
+}{
+    "stanza_scheme": "unstructured",
+    "rhyme_scheme": "unpatterned",
+    "metrical_foot": "polymetric",
+    "metrical_foot_count": "mixed",
+    "line_count": 28,
+    "total_syllables": 253,
+    "average_syllable_count": 9.0,
+    "proof": "The poem consists of 28 lines without a clear stanzaic structure, rhyme scheme, or consistent meter, indicating that it does not conform to any traditional fixed poetic form.",
+    "form": "unfixed",
+    "confidence": 85
+}

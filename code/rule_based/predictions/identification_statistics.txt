@@ -1,0 +1,741 @@
+Statistics for CCV | Weight set 1
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 1 Top Mean Confidence: 0.6735645206861756
+Weight set 1 Mean Confidence: 0.28331858358223744
+Median Confidence: 0.3132
+Max Confidence: 0.9
+Min Confidence: 0.0088
+Standard Deviation: 0.18609444854303925
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 65688
+sonnet: 4265
+couplet: 362
+ghazal: 183
+limerick: 106
+sestina: 39
+
+
+Statistics for CCV | Weight set 2
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 2 Top Mean Confidence: 0.706876864710093
+Weight set 2 Mean Confidence: 0.28756340047846213
+Median Confidence: 0.2975
+Max Confidence: 0.9
+Min Confidence: 0.0101
+Standard Deviation: 0.1880372804573416
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63658
+sonnet: 6443
+couplet: 209
+ghazal: 188
+limerick: 106
+sestina: 39
+
+
+Statistics for CCV | Weight set 3
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 3 Top Mean Confidence: 0.7135787021154946
+Weight set 3 Mean Confidence: 0.30132041957448014
+Median Confidence: 0.2973
+Max Confidence: 0.9
+Min Confidence: 0.0265
+Standard Deviation: 0.18235826442143138
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63647
+sonnet: 6185
+couplet: 426
+ghazal: 227
+limerick: 107
+sestina: 51
+
+
+Statistics for CCV | Weight set 4
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 4 Top Mean Confidence: 0.6446523123469241
+Weight set 4 Mean Confidence: 0.27834577523604603
+Median Confidence: 0.2934
+Max Confidence: 0.9
+Min Confidence: 0.0066
+Standard Deviation: 0.18081322745692205
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63702
+sonnet: 6244
+couplet: 362
+ghazal: 183
+limerick: 113
+sestina: 39
+
+
+Statistics for CCV | Weight set 5
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 5 Top Mean Confidence: 0.6919562081198266
+Weight set 5 Mean Confidence: 0.31742472714918674
+Median Confidence: 0.3109
+Max Confidence: 0.9
+Min Confidence: 0.0043
+Standard Deviation: 0.1770131049755028
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63032
+sonnet: 6693
+couplet: 460
+limerick: 244
+ghazal: 175
+sestina: 39
+
+
+Statistics for CCV | Weight set 6
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 6 Top Mean Confidence: 0.7318347424511545
+Weight set 6 Mean Confidence: 0.33347170561839107
+Median Confidence: 0.3029
+Max Confidence: 0.9
+Min Confidence: 0.0114
+Standard Deviation: 0.18728966335180217
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62198
+sonnet: 7497
+couplet: 387
+ghazal: 297
+limerick: 219
+sestina: 45
+
+
+Statistics for CCV | Weight set 7
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 7 Top Mean Confidence: 0.642015329572038
+Weight set 7 Mean Confidence: 0.26520080828956866
+Median Confidence: 0.2427
+Max Confidence: 0.9
+Min Confidence: 0.0337
+Standard Deviation: 0.16898985038681943
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63376
+sonnet: 5857
+couplet: 1082
+ghazal: 183
+limerick: 106
+sestina: 39
+
+
+Statistics for CCV | Weight set 8
+--- Overall Confidence Statistics ---
+Language: CCV
+Total Poems: 70643
+Weight set 8 Top Mean Confidence: 0.6805927734632091
+Weight set 8 Mean Confidence: 0.2883761873080135
+Median Confidence: 0.2667
+Max Confidence: 0.9
+Min Confidence: 0.0167
+Standard Deviation: 0.1741431459148932
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63046
+sonnet: 6364
+couplet: 901
+ghazal: 187
+limerick: 106
+sestina: 39
+
+
+Statistics for C3P | Weight set 1
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 1 Top Mean Confidence: 0.6402004844290657
+Weight set 1 Mean Confidence: 0.2615683002620741
+Median Confidence: 0.3044
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.15394226003131248
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 78685
+sonnet: 787
+limerick: 485
+couplet: 124
+ghazal: 49
+
+
+Statistics for C3P | Weight set 2
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 2 Top Mean Confidence: 0.6275378338821808
+Weight set 2 Mean Confidence: 0.2438228903032572
+Median Confidence: 0.2571
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.13982202956708772
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 77397
+sonnet: 2068
+limerick: 509
+ghazal: 81
+couplet: 75
+
+
+Statistics for C3P | Weight set 3
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 3 Top Mean Confidence: 0.6584582952182952
+Weight set 3 Mean Confidence: 0.25264910520404343
+Median Confidence: 0.2655
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.13538553006115078
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 77725
+sonnet: 1604
+limerick: 469
+couplet: 178
+ghazal: 153
+sestina: 1
+
+
+Statistics for C3P | Weight set 4
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 4 Top Mean Confidence: 0.5898057307692308
+Weight set 4 Mean Confidence: 0.2444426344689879
+Median Confidence: 0.2637
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.14309823416458323
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 77530
+sonnet: 1921
+limerick: 506
+couplet: 124
+ghazal: 49
+
+
+Statistics for C3P | Weight set 5
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 5 Top Mean Confidence: 0.614833620450125
+Weight set 5 Mean Confidence: 0.2662643604143267
+Median Confidence: 0.2674
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.13547921328093304
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 76531
+sonnet: 2561
+limerick: 807
+couplet: 188
+ghazal: 43
+
+
+Statistics for C3P | Weight set 6
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 6 Top Mean Confidence: 0.6310140578265204
+Weight set 6 Mean Confidence: 0.2598333408211656
+Median Confidence: 0.2286
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.13515006622985856
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 76118
+sonnet: 3180
+limerick: 489
+ghazal: 185
+couplet: 158
+
+
+Statistics for C3P | Weight set 7
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 7 Top Mean Confidence: 0.6098211840888067
+Weight set 7 Mean Confidence: 0.2273874229377262
+Median Confidence: 0.2326
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.12368723281897798
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 77968
+sonnet: 1122
+limerick: 511
+couplet: 480
+ghazal: 49
+
+
+Statistics for C3P | Weight set 8
+--- Overall Confidence Statistics ---
+Language: C3P
+Total Poems: 80130
+Weight set 8 Top Mean Confidence: 0.6023750329815304
+Weight set 8 Mean Confidence: 0.2338634119555722
+Median Confidence: 0.2333
+Max Confidence: 0.9
+Min Confidence: 0.0
+Standard Deviation: 0.12375989089082105
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 77098
+sonnet: 2045
+limerick: 511
+couplet: 425
+ghazal: 51
+
+
+Statistics for German | Weight set 1
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 1 Top Mean Confidence: 0.6068817927170868
+Weight set 1 Mean Confidence: 0.2344875485664266
+Median Confidence: 0.3044
+Max Confidence: 0.9
+Min Confidence: 0.0132
+Standard Deviation: 0.15861798927214413
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 63332
+couplet: 1263
+sonnet: 210
+limerick: 181
+ghazal: 131
+
+
+Statistics for German | Weight set 2
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 2 Top Mean Confidence: 0.5707875879189077
+Weight set 2 Mean Confidence: 0.23144509421502832
+Median Confidence: 0.242
+Max Confidence: 0.9
+Min Confidence: 0.0151
+Standard Deviation: 0.14196516238608115
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62700
+couplet: 1068
+sonnet: 1026
+limerick: 185
+ghazal: 138
+
+
+Statistics for German | Weight set 3
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 3 Top Mean Confidence: 0.5783650256006302
+Weight set 3 Mean Confidence: 0.24488725831964003
+Median Confidence: 0.2522
+Max Confidence: 0.9
+Min Confidence: 0.0292
+Standard Deviation: 0.13551112375331265
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62578
+couplet: 1202
+sonnet: 1007
+limerick: 185
+ghazal: 145
+
+
+Statistics for German | Weight set 4
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 4 Top Mean Confidence: 0.5613337104955131
+Weight set 4 Mean Confidence: 0.2292574473639756
+Median Confidence: 0.2604
+Max Confidence: 0.9
+Min Confidence: 0.0099
+Standard Deviation: 0.1484264389602907
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62554
+couplet: 1263
+sonnet: 981
+limerick: 188
+ghazal: 131
+
+
+Statistics for German | Weight set 5
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 5 Top Mean Confidence: 0.5609971950424005
+Weight set 5 Mean Confidence: 0.26994162353916795
+Median Confidence: 0.2674
+Max Confidence: 0.9
+Min Confidence: 0.0065
+Standard Deviation: 0.13360066095397927
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62051
+sonnet: 1353
+couplet: 1164
+limerick: 420
+ghazal: 129
+
+
+Statistics for German | Weight set 6
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 6 Top Mean Confidence: 0.5791852405984634
+Weight set 6 Mean Confidence: 0.2735997896094722
+Median Confidence: 0.2514
+Max Confidence: 0.9
+Min Confidence: 0.0171
+Standard Deviation: 0.12363673938421085
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62644
+sonnet: 1886
+ghazal: 302
+limerick: 186
+couplet: 99
+
+
+Statistics for German | Weight set 7
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 7 Top Mean Confidence: 0.571992731629393
+Weight set 7 Mean Confidence: 0.2462687470245865
+Median Confidence: 0.2393
+Max Confidence: 0.9
+Min Confidence: 0.0101
+Standard Deviation: 0.14241966881166576
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 61361
+couplet: 2574
+sonnet: 866
+limerick: 185
+ghazal: 131
+
+
+Statistics for German | Weight set 8
+--- Overall Confidence Statistics ---
+Language: German
+Total Poems: 65117
+Weight set 8 Top Mean Confidence: 0.566492994810971
+Weight set 8 Mean Confidence: 0.24807476542223997
+Median Confidence: 0.2417
+Max Confidence: 0.9
+Min Confidence: 0.025
+Standard Deviation: 0.13032124331260755
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 62419
+couplet: 1266
+sonnet: 1116
+limerick: 185
+ghazal: 131
+
+
+Statistics for Spanish | Weight set 1
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 1 Top Mean Confidence: 0.7973712182494742
+Weight set 1 Mean Confidence: 0.6878052534861097
+Median Confidence: 0.6265
+Max Confidence: 0.9
+Min Confidence: 0.0309
+Standard Deviation: 0.19196672858250247
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 6181
+other: 3070
+
+
+Statistics for Spanish | Weight set 2
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 2 Top Mean Confidence: 0.7314344953292322
+Weight set 2 Mean Confidence: 0.7132558642308939
+Median Confidence: 0.6479
+Max Confidence: 0.9
+Min Confidence: 0.0328
+Standard Deviation: 0.17762782065070942
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 8778
+other: 473
+
+
+Statistics for Spanish | Weight set 3
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 3 Top Mean Confidence: 0.8002987904492617
+Weight set 3 Mean Confidence: 0.6880460490757756
+Median Confidence: 0.608
+Max Confidence: 0.9
+Min Confidence: 0.0664
+Standard Deviation: 0.20271914053634382
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 6366
+other: 2885
+
+
+Statistics for Spanish | Weight set 4
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 4 Top Mean Confidence: 0.7273161415083609
+Weight set 4 Mean Confidence: 0.7098864555183224
+Median Confidence: 0.656
+Max Confidence: 0.9
+Min Confidence: 0.0231
+Standard Deviation: 0.1734845333811436
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 8791
+other: 460
+
+
+Statistics for Spanish | Weight set 5
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 5 Top Mean Confidence: 0.7750071677940213
+Weight set 5 Mean Confidence: 0.7707589233596368
+Median Confidence: 0.7391
+Max Confidence: 0.9
+Min Confidence: 0.05
+Standard Deviation: 0.12335418927619228
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 9166
+other: 85
+
+
+Statistics for Spanish | Weight set 6
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 6 Top Mean Confidence: 0.7800125167336011
+Weight set 6 Mean Confidence: 0.7694313695816668
+Median Confidence: 0.7229
+Max Confidence: 0.9
+Min Confidence: 0.0743
+Standard Deviation: 0.13482408298646154
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 8964
+other: 287
+
+
+Statistics for Spanish | Weight set 7
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 7 Top Mean Confidence: 0.7909618289637953
+Weight set 7 Mean Confidence: 0.6942047886714949
+Median Confidence: 0.6303
+Max Confidence: 0.9
+Min Confidence: 0.0607
+Standard Deviation: 0.1859467127033287
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 6408
+other: 2843
+
+
+Statistics for Spanish | Weight set 8
+--- Overall Confidence Statistics ---
+Language: Spanish
+Total Poems: 9251
+Weight set 8 Top Mean Confidence: 0.7306397744103909
+Weight set 8 Mean Confidence: 0.7135020214030916
+Median Confidence: 0.65
+Max Confidence: 0.9
+Min Confidence: 0.0583
+Standard Deviation: 0.1741132519203862
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+sonnet: 8777
+other: 474
+
+Statistics for Hungarian | Weight set 1
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 1 Top Mean Confidence: 0.6278480769230769
+Weight set 1 Mean Confidence: 0.24618010168547153
+Median Confidence: 0.3088
+Max Confidence: 0.7588
+Min Confidence: 0.0176
+Standard Deviation: 0.15838097382807279
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 14306
+sonnet: 36
+limerick: 10
+couplet: 6
+
+
+Statistics for Hungarian | Weight set 2
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 2 Top Mean Confidence: 0.5331797348484849
+Weight set 2 Mean Confidence: 0.23675227747597158
+Median Confidence: 0.2571
+Max Confidence: 0.8244
+Min Confidence: 0.0151
+Standard Deviation: 0.13735119272443239
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 13830
+sonnet: 498
+ghazal: 14
+limerick: 10
+couplet: 6
+
+
+Statistics for Hungarian | Weight set 3
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 3 Top Mean Confidence: 0.575914606741573
+Weight set 3 Mean Confidence: 0.2504704206714027
+Median Confidence: 0.2655
+Max Confidence: 0.8549
+Min Confidence: 0.0159
+Standard Deviation: 0.12283476592777264
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 14269
+sonnet: 38
+couplet: 22
+ghazal: 19
+limerick: 10
+
+
+Statistics for Hungarian | Weight set 4
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 4 Top Mean Confidence: 0.5411851590106007
+Weight set 4 Mean Confidence: 0.23750738264382226
+Median Confidence: 0.267
+Max Confidence: 0.7615
+Min Confidence: 0.0132
+Standard Deviation: 0.14770642077444762
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 13792
+sonnet: 546
+limerick: 14
+couplet: 6
+
+
+Statistics for Hungarian | Weight set 5
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 5 Top Mean Confidence: 0.6286543535620053
+Weight set 5 Mean Confidence: 0.2798213400195013
+Median Confidence: 0.2674
+Max Confidence: 0.7587
+Min Confidence: 0.0261
+Standard Deviation: 0.14286538624227477
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 13600
+sonnet: 697
+limerick: 38
+couplet: 22
+ghazal: 1
+
+
+Statistics for Hungarian | Weight set 6
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 6 Top Mean Confidence: 0.5999598351001177
+Weight set 6 Mean Confidence: 0.28547585318289453
+Median Confidence: 0.2743
+Max Confidence: 0.84
+Min Confidence: 0.0229
+Standard Deviation: 0.12982332560401147
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 13509
+sonnet: 769
+ghazal: 37
+limerick: 24
+couplet: 19
+
+
+Statistics for Hungarian | Weight set 7
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 7 Top Mean Confidence: 0.5788105263157894
+Weight set 7 Mean Confidence: 0.2233487881320518
+Median Confidence: 0.2393
+Max Confidence: 0.809
+Min Confidence: 0.0101
+Standard Deviation: 0.12101259534073613
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 14263
+couplet: 45
+sonnet: 40
+limerick: 10
+
+
+Statistics for Hungarian | Weight set 8
+--- Overall Confidence Statistics ---
+Language: Hungarian
+Total Poems: 14358
+Weight set 8 Top Mean Confidence: 0.5351893115942029
+Weight set 8 Mean Confidence: 0.23903175233319404
+Median Confidence: 0.2333
+Max Confidence: 0.8
+Min Confidence: 0.025
+Standard Deviation: 0.11776478269673908
+
+--- Predicted Form Distribution (Conf >= 0.5) ---
+other: 13806
+sonnet: 498
+couplet: 43
+limerick: 10
+ghazal: 1
+
+

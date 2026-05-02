@@ -1,0 +1,31 @@
+Corpus,Poem ID,Ground Truth,Eng-LR-f-s,Eng-LR-f-d,Eng-SVC-f-s,Eng-SVC-f-d
+English,1,,blank verse,blank verse,blank verse,blank verse
+English,2,,free verse,free verse,free verse,free verse
+English,3,,sonnet,sonnet,sonnet,sonnet
+English,4,,unfixed,unfixed,unfixed,unfixed
+English,5,,sonnet,sonnet,sonnet,sonnet
+English,6,,common measure,common measure,common measure,common measure
+English,7,,free verse,free verse,free verse,free verse
+English,8,,common measure,common measure,common measure,common measure
+English,9,,unfixed,unfixed,unfixed,unfixed
+English,10,,couplet,couplet,couplet,couplet
+English,11,,sonnet,sonnet,sonnet,sonnet
+English,12,,sonnet,sonnet,sonnet,sonnet
+English,13,,unfixed,unfixed,unfixed,unfixed
+English,14,,couplet,couplet,couplet,couplet
+English,15,,unfixed,unfixed,unfixed,unfixed
+English,16,,sonnet,sonnet,sonnet,sonnet
+English,17,,couplet,couplet,couplet,couplet
+English,18,,sonnet,sonnet,sonnet,sonnet
+English,19,,common measure,common measure,common measure,common measure
+English,20,,sonnet,sonnet,sonnet,sonnet
+English,21,,unfixed,unfixed,unfixed,unfixed
+English,22,,common measure,common measure,common measure,common measure
+English,23,,couplet,couplet,couplet,couplet
+English,24,,unfixed,sonnet,unfixed,sonnet
+English,25,,common measure,common measure,common measure,common measure
+English,26,,free verse,free verse,free verse,free verse
+English,27,,unfixed,unfixed,unfixed,unfixed
+English,28,,blank verse,blank verse,blank verse,blank verse
+English,29,,sonnet,sonnet,sonnet,sonnet
+English,30,,unfixed,unfixed,unfixed,unfixed

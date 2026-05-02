@@ -1,0 +1,91 @@
+Corpus,Poem ID,Ground Truth,Eng-LR-f-s,Eng-LR-f-d,Eng-SVC-f-s,Eng-SVC-f-d,Cz-f-s,Cz-f-d
+English,1,,blank verse,blank verse,blank verse,blank verse,,
+English,2,,free verse,free verse,free verse,free verse,,
+English,3,,sonnet,sonnet,sonnet,sonnet,,
+English,4,,unfixed,unfixed,unfixed,unfixed,,
+English,5,,sonnet,sonnet,sonnet,sonnet,,
+English,6,,common measure,common measure,common measure,common measure,,
+English,7,,free verse,free verse,free verse,free verse,,
+English,8,,common measure,common measure,common measure,common measure,,
+English,9,,unfixed,unfixed,unfixed,unfixed,,
+English,10,,couplet,couplet,couplet,couplet,,
+English,11,,sonnet,sonnet,sonnet,sonnet,,
+English,12,,sonnet,sonnet,sonnet,sonnet,,
+English,13,,unfixed,unfixed,unfixed,unfixed,,
+English,14,,couplet,couplet,couplet,couplet,,
+English,15,,unfixed,unfixed,unfixed,unfixed,,
+English,16,,sonnet,sonnet,sonnet,sonnet,,
+English,17,,couplet,couplet,couplet,couplet,,
+English,18,,sonnet,sonnet,sonnet,sonnet,,
+English,19,,common measure,common measure,common measure,common measure,,
+English,20,,sonnet,sonnet,sonnet,sonnet,,
+English,21,,unfixed,unfixed,unfixed,unfixed,,
+English,22,,common measure,common measure,common measure,common measure,,
+English,23,,couplet,couplet,couplet,couplet,,
+English,24,,unfixed,sonnet,unfixed,sonnet,,
+English,25,,common measure,common measure,common measure,common measure,,
+English,26,,free verse,free verse,free verse,free verse,,
+English,27,,unfixed,unfixed,unfixed,unfixed,,
+English,28,,blank verse,blank verse,blank verse,blank verse,,
+English,29,,sonnet,sonnet,sonnet,sonnet,,
+English,30,,unfixed,unfixed,unfixed,unfixed,,
+C3P,1,,,,,,unfixed,unfixed
+C3P,2,,,,,,unfixed,unfixed
+C3P,3,,,,,,unfixed,unfixed
+C3P,4,,,,,,sonet anglický,unfixed
+C3P,5,,,,,,unfixed,unfixed
+C3P,6,,,,,,unfixed,unfixed
+C3P,7,,,,,,unfixed,unfixed
+C3P,8,,,,,,unfixed,unfixed
+C3P,9,,,,,,unfixed,unfixed
+C3P,10,,,,,,unfixed,unfixed
+C3P,11,,,,,,unfixed,unfixed
+C3P,12,,,,,,unfixed,unfixed
+C3P,13,,,,,,unfixed,unfixed
+C3P,14,,,,,,unfixed,unfixed
+C3P,15,,,,,,unfixed,unfixed
+C3P,16,,,,,,sonet,sonet
+C3P,17,,,,,,unfixed,unfixed
+C3P,18,,,,,,unfixed,unfixed
+C3P,19,,,,,,unfixed,unfixed
+C3P,20,,,,,,unfixed,unfixed
+C3P,21,,,,,,unfixed,unfixed
+C3P,22,,,,,,unfixed,unfixed
+C3P,23,,,,,,unfixed,unfixed
+C3P,24,,,,,,unfixed,unfixed
+C3P,25,,,,,,sonet,sonet
+C3P,26,,,,,,unfixed,unfixed
+C3P,27,,,,,,unfixed,unfixed
+C3P,28,,,,,,unfixed,unfixed
+C3P,29,,,,,,unfixed,unfixed
+C3P,30,,,,,,unfixed,unfixed
+CCV,1,,,,,,unfixed,unfixed
+CCV,2,,,,,,unfixed,unfixed
+CCV,3,,,,,,unfixed,unfixed
+CCV,4,rondel,,,,,rondel,rondel
+CCV,5,,,,,,unfixed,unfixed
+CCV,6,tercína,,,,,tercína,tercína
+CCV,7,,,,,,unfixed,unfixed
+CCV,8,,,,,,unfixed,unfixed
+CCV,9,,,,,,unfixed,unfixed
+CCV,10,,,,,,unfixed,unfixed
+CCV,11,,,,,,unfixed,unfixed
+CCV,12,,,,,,unfixed,unfixed
+CCV,13,,,,,,unfixed,unfixed
+CCV,14,sonet,,,,,sonet,sonet
+CCV,15,,,,,,unfixed,unfixed
+CCV,16,,,,,,unfixed,unfixed
+CCV,17,madrigal,,,,,unfixed,unfixed
+CCV,18,sonet,,,,,sonet,sonet
+CCV,19,,,,,,unfixed,unfixed
+CCV,20,,,,,,unfixed,unfixed
+CCV,21,,,,,,unfixed,unfixed
+CCV,22,,,,,,unfixed,unfixed
+CCV,23,,,,,,unfixed,unfixed
+CCV,24,,,,,,unfixed,unfixed
+CCV,25,,,,,,unfixed,unfixed
+CCV,26,,,,,,unfixed,unfixed
+CCV,27,,,,,,unfixed,unfixed
+CCV,28,sonet,,,,,sonet,sonet
+CCV,29,,,,,,unfixed,unfixed
+CCV,30,sonet,,,,,sonet,sonet

@@ -1,0 +1,28 @@
+{
+    "villanelle": {
+        "stanza_scheme": {
+            "1 3 3 3 3 3 4": 1
+        },
+        "rhyme_scheme": {
+            "2 3 1 4 5 1 6 1 1 7 8 1 9 10 1 11 12 1 13 14": 1
+        },
+        "rhyme_scheme_per_stanza": {
+            "2 314 516 117 819 10111 1211314": 1
+        },
+        "metrical_foot": {
+            "iambic": 1
+        },
+        "metrical_foot_count": {
+            "4": 1
+        },
+        "line_count": {
+            "20": 1
+        },
+        "total_syllables": {
+            "157": 1
+        },
+        "average_syllable_count": {
+            "7.85": 1
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "stanza_scheme": {
+        "eng_only": [
+            "6 6 6",
+            "4"
+        ],
+        "eng_only_length": 2,
+        "cz_only": [],
+        "cz_only_length": 0,
+        "count_shared": 1,
+        "shared_values": [
+            "5"
+        ]
+    },
+    "rhyme_scheme": {
+        "eng_only": [
+            "1 2 3 4",
+            "7 1 1 2 2 1 2 3 3 4 4 3 8 5 5 6 6 5",
+            "1 1 2 1"
+        ],
+        "eng_only_length": 3,
+        "cz_only": [],
+        "cz_only_length": 0,
+        "count_shared": 1,
+        "shared_values": [
+            "1 1 2 2 1"
+        ]
+    },
+    "rhyme_scheme_per_stanza": {
+        "eng_only": [
+            "1234",
+            "711221 233443 855665",
+            "1121"
+        ],
+        "eng_only_length": 3,
+        "cz_only": [],
+        "cz_only_length": 0,
+        "count_shared": 1,
+        "shared_values": [
+            "11221"
+        ]
+    },
+    "metrical_foot": {
+        "eng_only": [
+            "amphibrachic"
+        ],
+        "eng_only_length": 1,
+        "cz_only": [
+            "dactylic",
+            "iambic"
+        ],
+        "cz_only_length": 2,
+        "count_shared": 2,
+        "shared_values": [
+            "polymetric",
+            "trochaic"
+        ]
+    },
+    "metrical_foot_count": {
+        "eng_only": [],
+        "eng_only_length": 0,
+        "cz_only": [
+            "",
+            "5",
+            "4",
+            "6"
+        ],
+        "cz_only_length": 4,
+        "count_shared": 3,
+        "shared_values": [
+            "3",
+            "2",
+            "mixed"
+        ]
+    },
+    "line_count": {
+        "eng_only": [
+            "15",
+            "4"
+        ],
+        "eng_only_length": 2,
+        "cz_only": [],
+        "cz_only_length": 0,
+        "count_shared": 1,
+        "shared_values": [
+            "5"
+        ]
+    },
+    "total_syllables": {
+        "eng_only": [
+            "107",
+            "39",
+            "34",
+            "38"
+        ],
+        "eng_only_length": 4,
+        "cz_only": [
+            "36",
+            "61",
+            "31",
+            "50",
+            "44",
+            "48",
+            "24",
+            "43",
+            "35",
+            "40",
+            "27",
+            "37",
+            "45",
+            "30",
+            "47"
+        ],
+        "cz_only_length": 15,
+        "count_shared": 1,
+        "shared_values": [
+            "41"
+        ]
+    },
+    "average_syllable_count": {
+        "eng_only": [
+            "10.25",
+            "6.8",
+            "7.133333333333334",
+            "8.5",
+            "9.75",
+            "9.5"
+        ],
+        "eng_only_length": 6,
+        "cz_only": [
+            "5.4",
+            "9.4",
+            "8.8",
+            "4.8",
+            "7.2",
+            "8.2",
+            "10.0",
+            "9.0",
+            "6.2",
+            "8.6",
+            "8.0",
+            "6.0",
+            "7.0",
+            "12.2",
+            "7.4",
+            "9.6"
+        ],
+        "cz_only_length": 16,
+        "count_shared": 0,
+        "shared_values": []
+    }
+}

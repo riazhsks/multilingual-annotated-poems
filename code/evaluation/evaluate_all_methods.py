@@ -52,28 +52,28 @@ def evaluate_prediction(row, col_name):
     for truth in truth_vals.split("/"):
         # Trivial string or substring match (e.g. couplet and heroic couplet)
         if truth in prediction or prediction in truth:
-            return "$+$"
+            return "+"
         
         # Checks for cross-lingual models
         if CzechEngMap.get(prediction) == truth or CzechEngMap.get(truth) == prediction:
-            return "$+$"
+            return "+"
         
         # Handle the special 'other' class for the rule-based models
         if is_rule_based:
             if truth not in RuleBasedSet:
-                return "$+$" if prediction == "other" else "$-$"
+                return "+" if prediction == "other" else "-"
             if prediction == "other":
-                    return "$-$"
+                    return "-"
 
 
         if is_sl_cz:
             # Something completely unseen
             if truth not in SupervisedCzech:
-                return "$+$" if prediction == "unfixed" else "$-$" 
+                return "+" if prediction == "unfixed" else "-" 
         if is_sl_eng:
             # Something completely unseen
             if truth not in SupervisedEng:
-                return "$+$" if prediction == "unfixed" else "$-$" 
+                return "+" if prediction == "unfixed" else "-" 
             
             
         # Prompting with P1 ommitted because same as General checks + manual eval
@@ -82,27 +82,27 @@ def evaluate_prediction(row, col_name):
         if is_p2:
             if truth in Prompt2Set:
                 # Incorrectly missed the prediction
-                if prediction not in truth and truth not in prediction: return "$-$"
+                if prediction not in truth and truth not in prediction: return "-"
             # Truth is NOT in the restricted set 
             else:
-                return "$+$" if prediction == "unfixed" else "$-$"
+                return "+" if prediction == "unfixed" else "-"
 
         # General checks
 
         # If Truth is Unfixed
         if truth in UnfixedForms:
             if prediction in FixedOrFormal:
-                return "$-$"
+                return "-"
             if prediction == "unfixed":
-                return "$+$"
+                return "+"
             
         # If Truth is a specific fixed form
         if truth in FixedOrFormal:
             if prediction in UnfixedForms:
-                return "$-$"
+                return "-"
             if prediction in FixedOrFormal:
                 # If they reached here, it's a mismatch (e.g., sonnet vs limerick)
-                return "$-$"
+                return "-"
 
     # Return any prediction that should be checked manually
     return prediction 
